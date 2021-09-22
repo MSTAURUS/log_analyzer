@@ -31,3 +31,5 @@
 ~~~
     python test_log_analyzer.py -v
 ~~~
+
+### bookmark **Домашнее задание/проектная работа выполнено (-на) для курса "[Python Developer. Professional](https://otus.ru/lessons/python-professional/)"**
